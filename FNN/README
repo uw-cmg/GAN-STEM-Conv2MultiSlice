@@ -1,0 +1,6 @@
+
+Stucture: Use fully connected neural network 
+8 hidden layers
+input /output layer size: 256 * 256 pixel image 
+
+Customized loss function: alpha(1 - SSIM) + MSE
